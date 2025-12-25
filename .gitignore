@@ -1,0 +1,6 @@
+.venv
+.venv_clean
+backend/config.py
+backend/model_testing.ipynb
+uv.lock
+.python-version
