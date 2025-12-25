@@ -1,4 +1,4 @@
-# 🧠 AI_Theparist – AI Mental Health Therapist (Agentic AI)
+# 🧠 AI_Therapist – AI Mental Health Therapist (Agentic AI)
 
 SafeSpace is an **agentic AI-powered mental health support system** designed to provide **empathetic, supportive, and safety-aware conversations**.  
 It combines **Groq LLMs**, **LangGraph ReAct agents**, **FastAPI**, **Streamlit**, **Twilio**, and **Geo-based therapist discovery** into a single, production-ready architecture.
@@ -138,5 +138,6 @@ The agent automatically decides **which tool to use and when**.
 ### 5️⃣ Production Readiness & Security
 - Authentication and access control
 - Rate limiting and monitoring
+
 
 
